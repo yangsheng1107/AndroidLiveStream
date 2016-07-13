@@ -1,0 +1,20 @@
+{
+  "Channel": [
+    {
+      "name": "壹電視新聞台",
+      "url": "http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8"
+    },
+    {
+      "name": "台視HD",
+      "url": "http://210.201.54.101:1935/live/ttv.sdp/playlist.m3u8"
+    },
+    {
+      "name": "台視財經台",
+      "url": "http://210.201.54.101:1935/live/ttv_fin.sdp/playlist.m3u8"
+    },
+    {
+      "name": "台視",
+      "url": "http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8"
+    }
+  ]
+}
